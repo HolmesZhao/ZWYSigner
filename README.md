@@ -7,3 +7,5 @@
 1. 支持了系统快捷键操作, cmd+q cmd+v
 2. api 返回信息对应的模型参数缺失, 导致无法继续执行 Promise, 补充了参数
 3. 拖拽文件的逻辑调整
+4. PrivateKey 信息要填写 p8 文件的中间部分, 并且去掉换行, 懒得弄读取 p8 文件了
+![image](https://github.com/HolmesZhao/ZWYSigner/assets/19728934/3319d8c8-3ea3-45d2-9ef0-8a8b1d047fdd)
